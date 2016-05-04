@@ -13,3 +13,6 @@
 ##感慨
 先是看了微博传的海口越秀区殴打视频，又看魏则西事件，感觉社会越来越可怕，所以发起一个有情怀的项目。
 
+##另外一个
+* [莆田系医院名单](https://github.com/langhua9527/BlackheartedHospital/blob/master/README.md) 
+
