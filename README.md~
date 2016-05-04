@@ -16,5 +16,5 @@
 ##另外一个
 * [莆田系医院名单](https://github.com/langhua9527/BlackheartedHospital/blob/master/README.md) 
 
-目前数据少，只能搜索中文，需要使用`Chrome浏览器`，都是复制上面这个项目测试用的，至于最后发展成什么样还不敢设想，欢迎大家一起PR/维护。
+需要使用`Chrome浏览器`，至于最后发展成什么样还不敢设想，欢迎大家一起PR/维护。
 
