@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="zh-CN">
   <head>
@@ -13,10 +15,10 @@
 
     <!-- Bootstrap core CSS -->
     <link href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="starter-template.css" rel="stylesheet">
-
+      <link href="css/search.css" rel="stylesheet">
+    <!-- js -->
+    <!-- <script src="http://cdn.bootcss.com/jquery/2.2.1/jquery.js"></script>
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> -->
 
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -76,21 +78,19 @@
         <p class="lead">一个有情怀的GetHosp，让搜索更简单！</p>
 
         <div class="container">
-          <!-- <div class="input-group">
-            <input type="text" class="form-control" placeholder="搜索医院，地区，例如：北京">
-            <span class="input-group-btn">
-              <button class="btn btn-default" type="button">Go!</button>
-            </span>
-          </div> -->
-        <!-- /input-group -->
+
 
         </br>
-          <form class="" role="search"><div class="form-group"><input type="text" class="form-control search clearable" placeholder="搜索医院，地区，例如：北京"> <i class="fa x fa-search onX"></i></div></form>
+          <form class="" role="search">
+            <div class="form-group">
+            <input type="text" class="form-control search clearable" placeholder="搜索医院，地区，例如：北京" id="search-content"> <i class="fa x fa-search onX"></i>
+          </div>
+        </form>
         </div>
 
-
-
     </header>
+
+
     <div class="container">
       <div class="row">
             <div class="col-md-6">
@@ -102,24 +102,21 @@
                 <p>保证信息的绝对公开、透明，拒绝删帖、煽动、不正当竞争等一切行为</p>
             </div>
         </div>
-
-
-
     </div><!-- /.container -->
 
     <footer class="footer">
         <div class="container">
             <p>© GetHosp 2016</p>
-            <!-- <p><a href="http://gethosp.cn/" target="_blank">GetHosp</a></p> -->
-        </div>
+      </div>
     </footer>
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
     <script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-
+    <script src="js/search.js"></script>
+    <script src="js/bootstrap3-typeahead.min.js"></script>
 
   </body>
+
 </html>

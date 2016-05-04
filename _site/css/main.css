@@ -41,7 +41,7 @@ a:visited { color: #205caa; }
 /* Site header */
 
 .site-header {
-  border-top: 5px solid #333;
+  border-top: 5px solid #cf4646;;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background-color: white;
@@ -51,7 +51,7 @@ a:visited { color: #205caa; }
 .site-title:hover,
 .site-title:visited {
   display: block;
-  color: #333;
+  color: #cf4646;;
   font-size: 26px;
   letter-spacing: -1px;
   float: left;
