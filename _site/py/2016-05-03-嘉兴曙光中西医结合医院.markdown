@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 嘉兴曙光中西医结合医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-嘉兴曙光中西医结合医院

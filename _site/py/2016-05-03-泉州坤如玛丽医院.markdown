@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 泉州坤如玛丽医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-泉州坤如玛丽医院

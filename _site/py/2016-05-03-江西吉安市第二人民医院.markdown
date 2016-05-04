@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 江西吉安市第二人民医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-江西吉安市第二人民医院

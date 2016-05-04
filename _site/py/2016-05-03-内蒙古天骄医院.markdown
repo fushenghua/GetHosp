@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 内蒙古天骄医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-内蒙古天骄医院

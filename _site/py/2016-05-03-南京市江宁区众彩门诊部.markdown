@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 南京市江宁区众彩门诊部
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-南京市江宁区众彩门诊部

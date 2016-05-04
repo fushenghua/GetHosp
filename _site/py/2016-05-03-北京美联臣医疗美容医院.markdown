@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 北京美联臣医疗美容医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-北京美联臣医疗美容医院

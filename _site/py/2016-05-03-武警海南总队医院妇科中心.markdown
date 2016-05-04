@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 武警海南总队医院妇科中心
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-武警海南总队医院妇科中心

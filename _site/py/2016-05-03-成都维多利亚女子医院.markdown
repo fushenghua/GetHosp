@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 成都维多利亚女子医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-成都维多利亚女子医院

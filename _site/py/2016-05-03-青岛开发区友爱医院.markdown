@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 青岛开发区友爱医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-青岛开发区友爱医院

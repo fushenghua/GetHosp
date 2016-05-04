@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 绵阳玛丽亚妇产儿童医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-绵阳玛丽亚妇产儿童医院

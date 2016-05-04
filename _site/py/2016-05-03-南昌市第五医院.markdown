@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: 南昌市第五医院
-
-date:   2016-05-03 13:39:56 
-categories: hosp 
---- 
-   
-南昌市第五医院
