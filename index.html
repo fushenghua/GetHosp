@@ -1,4 +1,6 @@
-
+---
+layout: null
+---
 
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -11,7 +13,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>GetHosp</title>
+    <title>{{ site.title }}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
@@ -59,11 +61,18 @@
     margin-top: 40px;
       }
 
-      .footer {
+    .footer {
     margin-top: 60px;
     text-align: center;
     color: #aaa;
-}
+    }
+
+    .package-amount{
+      font-size: 14px;
+    }
+    .site-header p {
+    color: #f4f4f4;
+    }
 
     </style>
   </head>
@@ -73,10 +82,10 @@
 
     <header class="jumbotron">
 
-        <h1>GetHosp</h1>
+        <h1>{{ site.title }}</h1>
         </br>
-        <p class="lead">一个有情怀的GetHosp，让搜索更简单！</p>
-
+        <p class="lead">一个有情怀的{{ site.title }}，让搜索更简单,安全！</p>
+        <p><span class="package-amount">共收录了 <strong> {{ site.posts | size  }} </strong> 个莆田系医院</span></p>
         <div class="container">
 
 
@@ -95,7 +104,7 @@
       <div class="row">
             <div class="col-md-6">
                 <h2>开源使用</h2>
-                <p>GetHosp 代码托管在Github上，包括数据信息。收录辨别莆田系医院，提供帮助信息。</p>
+                <p>{{ site.title }} 代码托管在Github上，包括数据信息。收录辨别莆田系医院，提供帮助信息。</p>
             </div>
             <div class="col-md-6">
                 <h2>公平公正</h2>

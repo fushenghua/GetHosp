@@ -2,7 +2,7 @@
 title: GetHosp
 email: fushenghua2012@gmail.com
 description: "GetHosp"
-baseurl: "http://fushenghua.github.io/GetHosp"
+#baseurl: "http://fushenghua.github.io/GetHosp"
 # twitter_username: GetHosp
 github_username:  fushenghua
 url: "http://fushenghua.github.io/GetHosp"
@@ -10,3 +10,6 @@ url: "http://fushenghua.github.io/GetHosp"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+include: [.html]
+paginator: true
