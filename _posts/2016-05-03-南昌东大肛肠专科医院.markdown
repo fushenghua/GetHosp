@@ -3,7 +3,20 @@ layout: post
 title: 南昌东大肛肠专科医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:南昌
+  
 --- 
    
 南昌东大肛肠专科医院
+
+信息
+ - 地址 江西省南昌市胜利路298号(八一桥旁)
+
+ - 电话 0791-86822072
+
+ - 网址 http://www.0791gc.com
+
+ - 微信 ddgc0791
+
+

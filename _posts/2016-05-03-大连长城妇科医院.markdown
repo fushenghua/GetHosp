@@ -3,7 +3,16 @@ layout: post
 title: 大连长城妇科医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:大连
+  
 --- 
    
 大连长城妇科医院
+
+信息
+ - 电话 400-0078120
+
+ - 网址 http://www.39568888.com
+
+

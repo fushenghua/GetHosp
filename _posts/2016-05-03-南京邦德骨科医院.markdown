@@ -3,7 +3,12 @@ layout: post
 title: 南京邦德骨科医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:南京
+  
 --- 
    
 南京邦德骨科医院
+
+信息
+

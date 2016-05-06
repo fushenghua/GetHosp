@@ -3,7 +3,12 @@ layout: post
 title: 长沙湘江医院七大医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:长沙
+  
 --- 
    
 长沙湘江医院七大医院
+
+信息
+

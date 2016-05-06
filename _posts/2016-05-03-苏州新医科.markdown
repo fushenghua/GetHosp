@@ -3,7 +3,12 @@ layout: post
 title: 苏州新医科
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:苏州
+  
 --- 
    
 苏州新医科
+
+信息
+

@@ -3,7 +3,12 @@ layout: post
 title: 胶南丽华医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:资阳
+  
 --- 
    
 胶南丽华医院
+
+信息
+

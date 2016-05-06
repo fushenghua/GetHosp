@@ -3,7 +3,12 @@ layout: post
 title: 铜仁华夏医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:安顺
+  
 --- 
    
 铜仁华夏医院
+
+信息
+

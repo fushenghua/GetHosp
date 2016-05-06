@@ -3,7 +3,16 @@ layout: post
 title: 上海南浦妇科医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:上海
+  
 --- 
    
 上海南浦妇科医院
+
+信息
+ - 电话 021-58891199
+
+ - 网址 http://www.nanpuyy.com
+
+

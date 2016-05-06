@@ -3,7 +3,12 @@ layout: post
 title: 黑龙江省武警黄金医院妇科
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:长春
+  
 --- 
    
 黑龙江省武警黄金医院妇科
+
+信息
+
