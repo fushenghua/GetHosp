@@ -3,8 +3,8 @@ layout: post
 title: 杭州同济医院
 
 date:   2016-05-03 13:39:56 
-categories:其他  
-city:湖州
+categories: 其他  
+city: 湖州
   
 --- 
    

@@ -3,8 +3,8 @@ layout: post
 title: 上海天伦医院(注:隶属上海明爱医疗集团)
 
 date:   2016-05-03 13:39:56 
-categories:其他  
-city:上海
+categories: 其他  
+city: 上海
   
 --- 
    

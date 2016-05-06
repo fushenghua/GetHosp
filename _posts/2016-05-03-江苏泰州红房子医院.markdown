@@ -3,8 +3,8 @@ layout: post
 title: 江苏泰州红房子医院
 
 date:   2016-05-03 13:39:56 
-categories:其他  
-city:泰州
+categories: 其他  
+city: 泰州
   
 --- 
    

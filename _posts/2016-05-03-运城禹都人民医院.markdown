@@ -3,8 +3,8 @@ layout: post
 title: 运城禹都人民医院
 
 date:   2016-05-03 13:39:56 
-categories:其他  
-city:西安
+categories: 其他  
+city: 西安
   
 --- 
    

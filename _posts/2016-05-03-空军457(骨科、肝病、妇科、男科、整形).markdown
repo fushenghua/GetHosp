@@ -3,8 +3,8 @@ layout: post
 title: 空军457(骨科、肝病、妇科、男科、整形)
 
 date:   2016-05-03 13:39:56 
-categories:其他  
-city:武汉
+categories: 其他  
+city: 武汉
   
 --- 
    

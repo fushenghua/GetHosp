@@ -3,8 +3,8 @@ layout: post
 title: 上海博爱医院（是否属于莆田系存在争议，请继续求证）
 
 date:   2016-05-03 13:39:56 
-categories:其他  
-city:上海
+categories: 其他  
+city: 上海
   
 --- 
    
