@@ -3,9 +3,9 @@ layout: post
 title: 武汉明德肛肠医院
 
 date:   2016-05-03 13:39:56 
-categories:三甲医院外包科室名单如下
+categories: 三甲医院外包科室名单如下
   
-city:武汉
+city: 武汉
   
 --- 
    

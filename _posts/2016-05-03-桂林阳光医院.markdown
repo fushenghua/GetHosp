@@ -3,8 +3,8 @@ layout: post
 title: 桂林阳光医院
 
 date:   2016-05-03 13:39:56 
-categories:其他  
-city:柳州
+categories: 其他  
+city: 柳州
   
 --- 
    
