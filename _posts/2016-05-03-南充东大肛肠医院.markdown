@@ -3,7 +3,12 @@ layout: post
 title: 南充东大肛肠医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:乐山
+  
 --- 
    
 南充东大肛肠医院
+
+信息
+

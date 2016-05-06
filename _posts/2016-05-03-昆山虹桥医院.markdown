@@ -3,7 +3,16 @@ layout: post
 title: 昆山虹桥医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:苏州
+  
 --- 
    
 昆山虹桥医院
+
+信息
+ - 电话 0512-57399999
+
+ - 网址 http://www.ksyy120.com
+
+

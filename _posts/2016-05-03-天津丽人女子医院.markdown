@@ -3,7 +3,20 @@ layout: post
 title: 天津丽人女子医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:天津
+  
 --- 
    
 天津丽人女子医院
+
+信息
+ - 电话 022-24156655
+
+ - 网址 http://www.lr16.com
+
+ - 网址 http://www.tjlrfk.com
+
+ - 网址 http://lr16.tj.aimeicity.com
+
+

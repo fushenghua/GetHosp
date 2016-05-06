@@ -3,7 +3,20 @@ layout: post
 title: 上海安真医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:上海
+  
 --- 
    
 上海安真医院
+
+信息
+ - 电话 021-57711006
+
+ - 地址 上海市松江区人民南路39号
+
+ - 用户反馈 [天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml)
+
+ - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
+
+

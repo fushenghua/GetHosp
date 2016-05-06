@@ -3,7 +3,16 @@ layout: post
 title: 山东红十字会医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:济南
+  
 --- 
    
 山东红十字会医院
+
+信息
+ - 用户反馈 [患者1](http://www.cywty.com/so/tousu1/2016/0504/4709.html)
+
+ - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&aqs=chrome..69i57j69i58.2342j0j4&sourceid=chrome&ie=UTF-8)
+
+

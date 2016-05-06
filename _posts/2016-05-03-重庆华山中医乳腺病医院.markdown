@@ -3,7 +3,12 @@ layout: post
 title: 重庆华山中医乳腺病医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:重庆
+  
 --- 
    
 重庆华山中医乳腺病医院
+
+信息
+

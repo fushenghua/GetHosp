@@ -3,7 +3,12 @@ layout: post
 title: 济南肛肠医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:济南
+  
 --- 
    
 济南肛肠医院
+
+信息
+

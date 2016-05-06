@@ -3,7 +3,16 @@ layout: post
 title: 常熟东方妇科医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:苏州
+  
 --- 
    
 常熟东方妇科医院
+
+信息
+ - 电话 0512-51531111
+
+ - 网址 http://www.csfk.net
+
+

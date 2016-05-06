@@ -3,7 +3,26 @@ layout: post
 title: 许昌中山医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:廊坊
+  
 --- 
    
 许昌中山医院
+
+信息
+ - 网址 http://www.xczshp.com
+
+ - 网址 http://www.xcyyhp.com
+
+ - 网址 http://www.2158888.com
+
+ - 网址 http://www.xczsnk.com
+
+ - 网址 xczsnk.com
+
+ - 地址 许昌市西大街280号
+
+ - 电话 0374-2158889
+
+

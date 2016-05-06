@@ -3,7 +3,12 @@ layout: post
 title: 青岛长征院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:青岛
+  
 --- 
    
 青岛长征院
+
+信息
+

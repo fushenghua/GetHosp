@@ -3,7 +3,16 @@ layout: post
 title: 武汉华美整形医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories:其他  
+city:武汉
+  
 --- 
    
 武汉华美整形医院
+
+信息
+ - 电话 400-0070606
+
+ - 网址 http://www.zswzx.com
+
+
