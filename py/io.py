@@ -14,3 +14,7 @@ for eachline in fp:
     fobj.writelines(eachline)
     fobj.close()
     print eachline,;
+
+def print_func( par ):
+   print "Hello : ", par
+   return
