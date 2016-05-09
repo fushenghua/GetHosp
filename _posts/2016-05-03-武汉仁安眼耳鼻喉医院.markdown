@@ -3,7 +3,16 @@ layout: post
 title: 武汉仁安眼耳鼻喉医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 武汉
+  
 --- 
    
 武汉仁安眼耳鼻喉医院
+
+信息
+ - 电话 400-6027669
+
+ - 网址 http://www.whrenan.com
+
+

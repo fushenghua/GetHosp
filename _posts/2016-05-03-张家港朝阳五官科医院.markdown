@@ -3,7 +3,16 @@ layout: post
 title: 张家港朝阳五官科医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 天津
+  
 --- 
    
 张家港朝阳五官科医院
+
+信息
+ - 电话 0512-58983999
+
+ - 网址 http://www.cy5g.com
+
+

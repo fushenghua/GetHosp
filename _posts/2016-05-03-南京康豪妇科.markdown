@@ -3,7 +3,12 @@ layout: post
 title: 南京康豪妇科
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 南京
+  
 --- 
    
 南京康豪妇科
+
+信息
+

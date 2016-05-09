@@ -3,7 +3,12 @@ layout: post
 title: 武警湖南省总队医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 长沙
+  
 --- 
    
 武警湖南省总队医院
+
+信息
+

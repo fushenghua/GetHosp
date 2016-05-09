@@ -3,7 +3,16 @@ layout: post
 title: 湖州阳光女子医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 泉州
+  
 --- 
    
 湖州阳光女子医院
+
+信息
+ - 网址 http://www.snvzi.com
+
+ - 网址 http://www.hznvzi.com
+
+

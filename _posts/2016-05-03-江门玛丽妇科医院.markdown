@@ -3,7 +3,12 @@ layout: post
 title: 江门玛丽妇科医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 江门
+  
 --- 
    
 江门玛丽妇科医院
+
+信息
+

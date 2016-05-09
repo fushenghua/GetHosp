@@ -3,7 +3,12 @@ layout: post
 title: 454医院植发科
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 南京
+  
 --- 
    
 454医院植发科
+
+信息
+

@@ -3,7 +3,12 @@ layout: post
 title: 上海市黄浦区中西医结合医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 上海
+  
 --- 
    
 上海市黄浦区中西医结合医院
+
+信息
+

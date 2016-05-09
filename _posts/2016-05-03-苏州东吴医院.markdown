@@ -3,7 +3,16 @@ layout: post
 title: 苏州东吴医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 苏州
+  
 --- 
    
 苏州东吴医院
+
+信息
+ - 电话 0512-68120120
+
+ - 网址 http://www.szdwyy.com
+
+

@@ -3,7 +3,12 @@ layout: post
 title: 昆明九州泌尿医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 昆明
+  
 --- 
    
 昆明九州泌尿医院
+
+信息
+

@@ -3,7 +3,12 @@ layout: post
 title: 合肥解放军105医院整形美容中心
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 合肥
+  
 --- 
    
 合肥解放军105医院整形美容中心
+
+信息
+

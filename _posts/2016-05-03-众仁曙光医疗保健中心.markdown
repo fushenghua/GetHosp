@@ -3,7 +3,12 @@ layout: post
 title: 众仁曙光医疗保健中心
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 上海
+  
 --- 
    
 众仁曙光医疗保健中心
+
+信息
+

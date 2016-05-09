@@ -3,7 +3,12 @@ layout: post
 title: 南京八一医院肝病中心
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 南京
+  
 --- 
    
 南京八一医院肝病中心
+
+信息
+

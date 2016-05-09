@@ -3,7 +3,16 @@ layout: post
 title: 武汉百佳医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 武汉
+  
 --- 
    
 武汉百佳医院
+
+信息
+ - 电话 027-66666333
+
+ - 网址 http://www.whbjyy.com
+
+

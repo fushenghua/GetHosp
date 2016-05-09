@@ -3,7 +3,16 @@ layout: post
 title: 天津华北医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 天津
+  
 --- 
    
 天津华北医院
+
+信息
+ - 电话 022-24418755
+
+ - 网址 http://www.huabeihp.com
+
+

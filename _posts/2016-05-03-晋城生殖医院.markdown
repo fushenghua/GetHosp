@@ -3,7 +3,12 @@ layout: post
 title: 晋城生殖医院
 
 date:   2016-05-03 13:39:56 
-categories: hosp 
+categories: 其他  
+city: 晋中
+  
 --- 
    
 晋城生殖医院
+
+信息
+
