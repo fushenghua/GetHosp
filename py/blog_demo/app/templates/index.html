@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Welcome</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.0/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.0/react-dom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="content"></div>
+    <div id="example"></div>
+    <div id="example2"></div>
+    <div id="example3"></div>
+    <script type="text/babel">
+      ReactDOM.render(
+        <h1>Hello, world!</h1>,
+        document.getElementById('example')
+      );
+      // JSX 语法
+      var names = ['Alice', 'Emily', 'Kate'];
+
+        ReactDOM.render(
+          <div>
+          {
+            names.map(function (name) {
+              return <div>Hello, {name}!</div>
+            })
+          }
+          </div>,
+          document.getElementById('content')
+        );
+
+          // JSX标签
+        var arr = [
+          <h1>Hello world!</h1>,
+          <h2>React is awesome</h2>,
+        ];
+        ReactDOM.render(
+          <div>{arr}</div>,
+          document.getElementById('example2')
+        );
+
+        // 封装组件
+        var HelloMessage = React.createClass({
+          render: function() {
+            return <h1>Hello {this.props.name}</h1>;
+          }
+        });
+
+        ReactDOM.render(
+          <HelloMessage name="John" />,
+          document.getElementById('example3')
+        );
+
+    </script>
+    Welcome ...
+    </br>
+
+     <ul>
+     {% for i in jobs %}
+        <li> <img src="{{ i.jobImg }} "/> <a href =""> {{ i.jobName }} </a> </li>
+     {% endfor %}
+     </ul>
+
+
+  </body>
+</html>
